@@ -1,0 +1,2 @@
+sql
+DROP INDEX IdxPhone ON customers;
